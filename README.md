@@ -17,7 +17,7 @@ Verify the results
 
 I will be using the following three models :
 
-1.Random Forest 
+1.Random Forest https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html# 
 
 2.Gaussian Naive Bayes https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#
 
